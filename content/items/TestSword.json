@@ -1,0 +1,9 @@
+{
+  "name": "TestSword",
+  "namespace": "ExampleMod.Content.Items",
+  "width": 40,
+  "height": 40,
+  "maxStack": 1,
+  "value": 1000,
+  "rarity": "Green"
+}
